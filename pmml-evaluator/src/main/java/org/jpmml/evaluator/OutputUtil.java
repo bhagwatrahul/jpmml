@@ -89,7 +89,6 @@ public class OutputUtil {
 					}
 					break;
 				case TRANSFORMED_VALUE:
-					break;
 				case DECISION:
 					{
 						Expression expression = outputField.getExpression();
